@@ -1,0 +1,16 @@
+{
+  "name": "jsmods",
+  "version": "1.0.0",
+  "description": "My NPM modules' \"monorepo\"",
+  "main": "index.js",
+  "repository": "https://github.com/kevinfrei/jsmods.git",
+  "author": "Kevin Frei <kevinfrei@hotmail.com>",
+  "license": "Unlicense",
+  "packageManager": "yarn@3.6.0",
+  "workspaces": ["typechk"],
+  "devDependencies": {
+    "eslint": "^8.42.0",
+    "eslint-config-prettier": "^8.8.0",
+    "prettier": "^2.8.8"
+  }
+}

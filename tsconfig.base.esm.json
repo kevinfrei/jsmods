@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "incremental": true,
+    "module": "ES2020",
+    "declaration": true,
+    "tsBuildInfoFile": ".mjs.tsbuildinfo",
+    "inlineSourceMap": true
+  }
+}
