@@ -7,7 +7,9 @@
   "author": "Kevin Frei <kevinfrei@hotmail.com>",
   "license": "Unlicense",
   "packageManager": "yarn@3.6.0",
-  "workspaces": ["typechk"],
+  "workspaces": [
+    "projects/*"
+  ],
   "devDependencies": {
     "eslint": "^8.42.0",
     "eslint-config-prettier": "^8.8.0",

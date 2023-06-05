@@ -4,6 +4,5 @@
     "incremental": true,
     "module": "commonjs",
     "inlineSourceMap": true,
-    "tsBuildInfoFile": ".cjs.tsbuildinfo"
   }
 }
